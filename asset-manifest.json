@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/THEDev/static/css/main.abd64e84.css",
+    "main.js": "/THEDev/static/js/main.0fbe984e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/THEDev/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/THEDev/index.html",
+    "main.abd64e84.css.map": "/THEDev/static/css/main.abd64e84.css.map",
+    "main.0fbe984e.js.map": "/THEDev/static/js/main.0fbe984e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/THEDev/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.0fbe984e.js"
+  ]
+}
